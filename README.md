@@ -37,7 +37,7 @@ This tool is intended for authorized security assessments and research purposes 
 
 ## References
 
-- [TPM SPI-Sniffing mit pico-tpm-spider (Pentest Factory Blog)](https://www.pentestfactory.de/blog/tpm-spi-sniffing) -- Full writeup with step-by-step PoC on a Dell Latitude 7280
+- [BitLocker TPM-Angriff: VMK per SPI-Sniffing auslesen (Pentest Factory Blog)](https://www.pentestfactory.de/bitlocker-tpm-angriff-vmk-per-spi-sniffing-auslesen/) -- Full writeup with step-by-step PoC on a Dell Latitude 7280
 - [decrazyo/pico-tpm-spider](https://github.com/decrazyo/pico-tpm-spider) -- Original repository and source code
 - [Bypassing BitLocker: Full Disk Decryption for less than $5](https://www.youtube.com/watch?v=...) -- D0zer & V00t, CypherCon 9.0
 - [BitLocker Countermeasures (Microsoft)](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/countermeasures)
